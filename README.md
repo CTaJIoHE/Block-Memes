@@ -29,18 +29,10 @@
 
 | Главное меню | Игровой процесс | Коллекция |
 | --- | --- | --- |
-|<img width="551" height="605" alt="image" src="https://github.com/user-attachments/assets/ddc40407-da0b-498e-8cc7-4dd5b6fdd19d" />
-  |<img width="467" height="752" alt="image" src="https://github.com/user-attachments/assets/673b14a4-d2e7-40e2-aa4d-ebca22f5b4c6" />
-  |<img width="536" height="742" alt="image" src="https://github.com/user-attachments/assets/e35ac763-5822-4cf2-9964-88ec381e9858" />
+|<img width="551" height="605" alt="image" src="https://github.com/user-attachments/assets/480d4d16-12a1-46f6-a20c-51811bc28804" />
+|<img width="617" height="1054" alt="image" src="https://github.com/user-attachments/assets/60384291-e632-47a3-99d0-51b70f100c7b" />
+|<img width="330" height="563" alt="image" src="https://github.com/user-attachments/assets/27c64a88-66f0-4a2b-9adf-a7e110c305d6" />
 |
-|<img width="314" height="417" alt="image" src="https://github.com/user-attachments/assets/dc5de9ab-da59-4a15-a516-fcb550975f56" />
-  |<img width="555" height="738" alt="image" src="https://github.com/user-attachments/assets/eb651a2a-2285-4dee-aef5-2c8409d04e2b" />
-  |<img width="330" height="563" alt="image" src="https://github.com/user-attachments/assets/e401ff76-b897-4d99-b39c-ebd99078b443" />
-  |
-|<img width="418" height="678" alt="image" src="https://github.com/user-attachments/assets/56645b1b-3d27-4493-b2b3-2003b2811e90" />
-  |<img width="514" height="585" alt="image" src="https://github.com/user-attachments/assets/bc39277e-bc5b-469e-9a61-0354a2c407f7" />
-  |<img width="505" height="517" alt="image" src="https://github.com/user-attachments/assets/1ec4c58f-c379-4752-851a-d667a96bc477" />
-  |
 
 ---
 
