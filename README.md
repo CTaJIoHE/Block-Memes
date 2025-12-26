@@ -56,9 +56,25 @@
 **Инструкция:**
 
 1. **Клонируйте репозиторий:**
-
+```bash
 git clone [https://github.com/ваш-никнейм/block-memes.git](https://github.com/ваш-никнейм/block-memes.git)
 cd block-memes
+
+```
+
+2. **Установите зависимости:**
+
+```bash
+pip install -r requirements.txt
+
+```
+
+3. **Запустите игру:**
+
+```bash
+python "block memes.py"
+
+```
 
 ---
 
