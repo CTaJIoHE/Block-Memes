@@ -1,0 +1,14 @@
+{
+    "volume": 0.5,
+    "music_volume": 0.5,
+    "sfx_volume": 0.5,
+    "ui_sounds": true,
+    "music_muted": false,
+    "cut_sound": false,
+    "skip_tutorial": false,
+    "high_score": 0,
+    "history": [],
+    "balance": 0,
+    "meme_price": 500,
+    "custom_memes_count": 0
+}
